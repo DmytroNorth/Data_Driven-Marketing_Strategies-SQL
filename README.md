@@ -1,4 +1,4 @@
-# Cyclistic-Data-Analysis
+# Cyclistic-Data-Analysis | Excel, SQL, Illustrator
 This is a capstone project for **Google Data Analytics** course. I used real-world data provided by a bike-sharing company in Chicago. The goal was to design marketing strategies aimed at converting casual riders into annual members.
 
 * The final [**Cyclistic data analysis presentation**](https://docs.google.com/presentation/d/1dJFRqilNzjHMs279K3sWfbKWjDg61FYBVdgC7RNCG_w/edit?usp=sharing) is available at **Google Slides.** 
