@@ -1,3 +1,5 @@
+![cyclistic-cover1](https://user-images.githubusercontent.com/20174979/124314794-c75e8500-db27-11eb-9124-b526617f72d3.png)
+
 # Cyclistic-Data-Analysis | Excel, SQL, Illustrator
 This is a capstone project for **Google Data Analytics** course. I used real-world data provided by a bike-sharing company in Chicago. The goal was to design marketing strategies aimed at converting casual riders into annual members.
 
